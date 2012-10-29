@@ -4,7 +4,7 @@ Launcron is an laundry notification app. Users can get reminders when their laun
 
 Launcron is written in python, uses MongoDB and uses the Twilio REST API to send and receive SMS messages. 
 
-![](http://negeorge.github.com/Launcron/imgs/launcron.jpg)
+![](https://raw.github.com/negeorge/Launcron/master/imgs/launcron.jpg)
 
 ## Author
 
